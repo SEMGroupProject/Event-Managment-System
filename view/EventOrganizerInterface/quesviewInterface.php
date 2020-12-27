@@ -1,3 +1,7 @@
+    <!-- This function is added -->
+
+
+
 <?php
 require_once '../../controller/EventOrganizerController/queController.php';
 
@@ -143,7 +147,8 @@ if (isset($_POST['submit'])) {
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Question Form</title>
+    <title>Question Form</title>        <!-- This form is added -->
+
      
     <!-- Latest compiled and minified Bootstrap CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
