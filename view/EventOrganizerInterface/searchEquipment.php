@@ -1,3 +1,5 @@
+    <!-- This function to enable the earch -->
+
 <?php
 session_start();
 
